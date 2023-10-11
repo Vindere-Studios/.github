@@ -1,8 +1,6 @@
 ## Vindere Studios
 
-### About Us
-We are a small independent game development company based out of the United States devoted to making simple,
-enjoyable games.
+We are a small independent game development company based out of the United States devoted to making simple yet creative games.
 
 <br>
 <br>
